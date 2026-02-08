@@ -1,1 +1,1 @@
-# HAND-CURSOR
+#hand cursor
